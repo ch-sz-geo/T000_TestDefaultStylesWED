@@ -54,6 +54,9 @@ li a:hover, li a code:hover {
 	border-collapse: collapse;
 }*/
 
+#toc li ul.sectlevel1 li {
+	padding-left: 0em;
+}
 
 #toc li ul.sectleve2 li{
 	padding-left: 1em;
