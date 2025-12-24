@@ -56,7 +56,7 @@ li a:hover, li a code:hover {
 
 
 #toc li ul.sectlevel1 li{
-	padding: 1em;
+	padding-left: 1em;
 }
 
 h1 a.link {
